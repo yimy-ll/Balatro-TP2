@@ -1,0 +1,99 @@
+@startuml
+
+class Usuario {
+
+nombre
++ Operation()
+}
+
+class Juego {
+
+addedState
++ void jugar()
++ void terminar()
+}
+
+class Puntaje {
+
+addedState
++ Operation()
+}
+
+class Tienda {
+
+addedState+ Operation()
+}
+
+class Ronda {
+
+int maximoComodin
++ Mazo inicializarMazo(Poker[])
++ void comprarCartas(Carta[])
+}
+
+class Turno {
+
+int limiteDescarte
++ Repartida elegirMano(Poker[])
++ void aplicarTarot()
+}
+
+class Mazo {
+
+addedState
++ Operation()
+}
+
+class Repartida {
+addedState
++ void descartar()
++ Jugada lanzarMano(Poker[])
+}
+
+class Jugada{
+addedState
++ calcularPuntaje()
+}
+
+class Carta {
+addedState
++ Operation()
++ AddedBehavior()
+}
+
+class Poker {
+
+addedState
++ Operation()
++ AddedBehavior()
+}
+
+class Comodin {
+
+addedState
++ Operation()
++ AddedBehavior()
+}
+
+class Tarot {
+
+addedState
++ Operation()
++ AddedBehavior()
+}
+
+Usuario --> Juego
+Juego <|-- Ronda
+Tienda <|-- Ronda
+Ronda *-- Mazo
+Ronda *-- Turno
+Turno -- Repartida
+Repartida -- Jugada
+Tienda *-- Carta
+Carta <|-- Poker
+Carta <|-- Comodin
+Carta <|-- Tarot
+Mazo o-- Poker
+Jugada o-- Poker
+Repartida o-- Poker
+@enduml
