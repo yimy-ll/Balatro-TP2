@@ -9,7 +9,7 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUB
 * **Yimy Llanos Puita** - [https://github.com/yimy-ll](https://github.com/integrante1)
 * **Nicolás Burgar** - [https://github.com/NicoBurgar](https://github.com/integrante2)
 * **Lautaro Laffont** - [https://github.com/LautiL](https://github.com/integrante3)
-* **Integrante 4** - [integrante4](https://github.com/integrante4)
+* **Noel Alejandro Escobar Barreto** - [https://github.com/NoelEscobar](https://github.com/integrante4)
 
 Corrector: **{Corrector}**
 
