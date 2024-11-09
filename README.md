@@ -6,11 +6,11 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUB
 
 ## Grupo 12
 
-* **Yimy Llanos Puita** - [https://github.com/yimy-ll](https://github.com/integrante1)
-* **Nicolás Burgar** - [https://github.com/NicoBurgar](https://github.com/integrante2)
-* **Lautaro Laffont** - [https://github.com/LautiL](https://github.com/integrante3)
-* **Noel Alejandro Escobar Barreto** - [https://github.com/NoelEscobar](https://github.com/integrante4)
-* **Edgar Mauricio Tello Melendez** - [https://github.com/EdgarTello](https://github.com/integrante5)
+* **Yimy Llanos Puita** - [yimy-ll](https://github.com/yimy-ll)
+* **Nicolás Burgar** - [NicoBurgar](https://github.com/NicoBurgar)
+* **Lautaro Laffont** - [LautiL](https://github.com/LautiL)
+* **Noel Alejandro Escobar Barreto** - [NoelEscobar](https://github.com/NoelEscobar)
+* **Edgar Mauricio Tello Melendez** - [edgartellom](https://github.com/edgartellom)
 
 Corrector: **Pablo Rodriguez Massuh**
 
